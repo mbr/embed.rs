@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://mbr.github.io/embed.rs/</loc>
+    <lastmod>2016-10-10T17:09:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mbr.github.io/embed.rs/post/arm-inline-assembly-rust/</loc>
+    <lastmod>2016-10-10T17:09:35+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mbr.github.io/embed.rs/post/embedded-state-machines/</loc>
+    <lastmod>2016-10-08T10:35:37+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://mbr.github.io/embed.rs/post/intial-commit/</loc>
+    <lastmod>2016-10-08T10:26:20+02:00</lastmod>
+  </url>
+  
+</urlset>
